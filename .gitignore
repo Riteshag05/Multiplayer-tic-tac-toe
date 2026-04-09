@@ -1,0 +1,15 @@
+.DS_Store
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# Editor / OS
+Thumbs.db
+.idea/
+.vscode/
+*.swp

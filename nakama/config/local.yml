@@ -1,0 +1,5 @@
+name: tic-tac-toe-nakama
+logger:
+  level: INFO
+runtime:
+  path: "/nakama/data/modules"
